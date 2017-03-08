@@ -1,0 +1,17 @@
+C:\Workspace\Onboarding and Funding\Main\Fitnesse\WebsiteRegression\SiteCrawler\SiteCrawler\bin\Debug\SiteCrawler.exe.config
+C:\Workspace\Onboarding and Funding\Main\Fitnesse\WebsiteRegression\SiteCrawler\SiteCrawler\bin\Debug\SiteCrawler.exe
+C:\Workspace\Onboarding and Funding\Main\Fitnesse\WebsiteRegression\SiteCrawler\SiteCrawler\bin\Debug\SiteCrawler.pdb
+C:\Workspace\Onboarding and Funding\Main\Fitnesse\WebsiteRegression\SiteCrawler\SiteCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Workspace\Onboarding and Funding\Main\Fitnesse\WebsiteRegression\SiteCrawler\SiteCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Workspace\Onboarding and Funding\Main\Fitnesse\WebsiteRegression\SiteCrawler\SiteCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Workspace\Onboarding and Funding\Main\Fitnesse\WebsiteRegression\SiteCrawler\SiteCrawler\obj\Debug\SiteCrawler.csprojResolveAssemblyReference.cache
+C:\Workspace\Onboarding and Funding\Main\Fitnesse\WebsiteRegression\SiteCrawler\SiteCrawler\obj\Debug\SiteCrawler.exe
+C:\Workspace\Onboarding and Funding\Main\Fitnesse\WebsiteRegression\SiteCrawler\SiteCrawler\obj\Debug\SiteCrawler.pdb
+C:\Workspace\SiteCrawler\SiteCrawler\bin\Debug\SiteCrawler.exe.config
+C:\Workspace\SiteCrawler\SiteCrawler\obj\Debug\SiteCrawler.exe
+C:\Workspace\SiteCrawler\SiteCrawler\obj\Debug\SiteCrawler.pdb
+C:\Workspace\SiteCrawler\SiteCrawler\bin\Debug\SiteCrawler.exe
+C:\Workspace\SiteCrawler\SiteCrawler\bin\Debug\SiteCrawler.pdb
+C:\Workspace\SiteCrawler\SiteCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Workspace\SiteCrawler\SiteCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Workspace\SiteCrawler\SiteCrawler\bin\Debug\HtmlAgilityPack.xml
